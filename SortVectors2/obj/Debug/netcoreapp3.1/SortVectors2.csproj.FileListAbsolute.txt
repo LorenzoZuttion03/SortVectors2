@@ -1,0 +1,13 @@
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\bin\Debug\netcoreapp3.1\SortVectors2.exe
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\bin\Debug\netcoreapp3.1\SortVectors2.deps.json
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\bin\Debug\netcoreapp3.1\SortVectors2.runtimeconfig.json
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\bin\Debug\netcoreapp3.1\SortVectors2.runtimeconfig.dev.json
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\bin\Debug\netcoreapp3.1\SortVectors2.dll
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\bin\Debug\netcoreapp3.1\SortVectors2.pdb
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\obj\Debug\netcoreapp3.1\SortVectors2.csprojAssemblyReference.cache
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\obj\Debug\netcoreapp3.1\SortVectors2.AssemblyInfoInputs.cache
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\obj\Debug\netcoreapp3.1\SortVectors2.AssemblyInfo.cs
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\obj\Debug\netcoreapp3.1\SortVectors2.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\obj\Debug\netcoreapp3.1\SortVectors2.dll
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\obj\Debug\netcoreapp3.1\SortVectors2.pdb
+C:\Users\lorenzo.zuttion\Documents\SortVectors2\SortVectors2\obj\Debug\netcoreapp3.1\SortVectors2.genruntimeconfig.cache
